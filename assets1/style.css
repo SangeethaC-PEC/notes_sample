@@ -1,0 +1,112 @@
+#container{
+	background:url(' images/z1.jpg');
+     background-color:#50ed1c;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	width:1200px;
+	height:900px;
+	background-color: #fff;
+	padding:70px;
+	
+      
+}
+
+
+
+
+div.con{
+height:300px;
+width:250px;
+float:left;
+margin:20px;
+}
+
+
+div#cpp{
+	background-color: #fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	 padding:40px;
+	
+}
+div#php{
+	
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;		
+}
+div#html{
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;
+	
+}
+div#java{
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;
+	
+}
+div#py{
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;
+	
+}
+div#sql{
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;
+	
+}
+
+div#python{
+	background-color:#fff;
+	border-radius: 25px;
+    border: 2px solid #73AD21;
+	padding:40px;
+	}
+	
+.parallax {
+    background-image: url('images/bg5.jpg');
+	
+    height: 70%; 
+    width:100%;
+ 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.button {
+  
+  padding: 15px 25px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+  height:15%;
+  width:50%;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: orange;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
